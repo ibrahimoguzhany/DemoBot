@@ -1,0 +1,19 @@
+{
+    "name": "Demo Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "079d0b00-b7dd-11eb-8f0d-ad1dc1823e06",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "channelService": ""
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\oguzhan\\source\\repos\\DemoBot\\DemoBot\\Demo Bot.bot",
+    "overrides": null
+}
